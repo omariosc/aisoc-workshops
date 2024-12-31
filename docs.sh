@@ -12,10 +12,10 @@ cp 3\ Neural\ Networks/README.md docs/workshop3.md
 cp 4\ Ethics\ of\ AI/README.md docs/workshop4.md
 cp 5\ AI\ Mini-Hackathon/README.md docs/workshop5.md
 cp 6\ AI\ Project\ Showcase/README.md docs/workshop6.md
-cp README.md docs/index.md
+cp index.md docs/index.md
 cp LICENSE docs/LICENSE.md
 
 # Run MkDocs serve
-python -m mkdocs serve &
+# python -m mkdocs serve &
 # # Run MkDocs build
 # python -m mkdocs build
