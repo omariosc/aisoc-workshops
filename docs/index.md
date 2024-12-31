@@ -13,7 +13,7 @@ This repository contains all the resources and materials for the workshops that 
 3. [Workshop 3: Neural Networks](docs/workshop3.md)
 4. [Workshop 4: Ethics of AI](docs/workshop4.md)
 5. [Workshop 5: AI Mini-Hackathon](docs/workshop5.md)
-6. [Workshop 6: AI Project Showcase](wdocs/orkshop6.md)
+6. [Workshop 6: AI Project Showcase](docs/workshop6.md)
 
 ## Organiser
 
