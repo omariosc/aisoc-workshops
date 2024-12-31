@@ -1,0 +1,13 @@
+site_name: AISoc Workshops 2024/2025
+nav:
+  - Home: index.md
+  - License: LICENSE.md
+  - Workshops:
+      - 1 Introduction to AI: workshop1.md
+      - 2 Building a Machine Learning Pipeline: workshop2.md
+      - 3 Neural Networks: workshop3.md
+      - 4 Ethics of AI: workshop4.md
+      - 5 AI Mini-Hackathon: workshop5.md
+      - 6 AI Project Showcase: workshop6.md
+theme: readthedocs
+docs_dir: docs

@@ -1,15 +1,8 @@
 # AISoc Workshops (Semester 2 2024/2025)
 
-## Table of Contents
-
-1. [Description](#description)
-2. [Workshops](#workshops)
-3. [Contributors](#contributors)
-4. [License](#license)
+Welcome to the University of Leeds' AI Society Workshops for Semester 2 of the 2024/2025 academic year!
 
 ## Description
-
-Welcome to the University of Leeds' AI Society Workshops for Semester 2 of the 2024/2025 academic year!
 
 This repository contains all the resources and materials for the workshops that will be held throughout the semester. Each workshop will have its own folder containing the relevant files and instructions.
 
@@ -22,9 +15,11 @@ This repository contains all the resources and materials for the workshops that 
 5. [Workshop 5: AI Mini-Hackathon](/5%20AI%20Mini-Hackathon/README.md)
 6. [Workshop 6: AI Project Showcase](/6%20AI%20Project%20Showcase/README.md)
 
-## Contributors
+## Organiser
 
-- Omar Choudhry
+- Omar Choudhry ([O.Choudhry@leeds.ac.uk](mailto:O.Choudhry@leeds.ac.uk))
+- [LinkedIn](https://www.linkedin.com/in/omarchoudhry01/)
+- [GitHub](https://www.github.com/omariosc)
 
 ## License
 
