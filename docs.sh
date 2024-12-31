@@ -17,5 +17,5 @@ cp LICENSE docs/LICENSE.md
 
 # Run MkDocs serve
 # python -m mkdocs serve &
-# # Run MkDocs build
-# python -m mkdocs build
+# Run MkDocs build
+python -m mkdocs build
