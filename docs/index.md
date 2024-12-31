@@ -8,12 +8,12 @@ This repository contains all the resources and materials for the workshops that 
 
 ## Workshops
 
-1. [Workshop 1: Introduction to AI](docs/workshop1.md)
-2. [Workshop 2: Building a Machine Learning Pipeline](docs/workshop2.md)
-3. [Workshop 3: Neural Networks](docs/workshop3.md)
-4. [Workshop 4: Ethics of AI](docs/workshop4.md)
-5. [Workshop 5: AI Mini-Hackathon](docs/workshop5.md)
-6. [Workshop 6: AI Project Showcase](docs/workshop6.md)
+1. [Workshop 1: Introduction to AI](workshop1.md)
+2. [Workshop 2: Building a Machine Learning Pipeline](workshop2.md)
+3. [Workshop 3: Neural Networks](workshop3.md)
+4. [Workshop 4: Ethics of AI](workshop4.md)
+5. [Workshop 5: AI Mini-Hackathon](workshop5.md)
+6. [Workshop 6: AI Project Showcase](workshop6.md)
 
 ## Organiser
 
@@ -23,4 +23,4 @@ This repository contains all the resources and materials for the workshops that 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](docs/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
