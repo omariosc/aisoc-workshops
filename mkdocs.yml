@@ -1,6 +1,6 @@
 site_name: AISoc Workshops 2024/2025
 nav:
-  - Home: index.md
+  - Home: index.html
   - License: LICENSE.md
   - Workshops:
       - 1 Introduction to AI: workshop1.md

@@ -1,5 +1,3 @@
-mkdir -p docs
-
 cp 1\ Introduction\ to\ AI/README.md docs/workshop1.md
 cp 2\ Buliding\ a\ Machine\ Learning\ Pipeline/README.md docs/workshop2.md
 cp 3\ Neural\ Networks/README.md docs/workshop3.md
