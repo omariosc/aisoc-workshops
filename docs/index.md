@@ -33,6 +33,8 @@ Tickets are offered on a first-come-first-serve basis. To book your tickets, ple
 - [Workshop 5: AI Mini-Hackathon](https://engage.luu.org.uk/events/4GQBF/ai-workshop-5-ai-mini-hackathon)
 - [Workshop 6: AI Project Showcase](https://engage.luu.org.uk/events/8V99H/ai-workshop-6-ai-project-showcase)
 
+Links for the online workshop sessions can be found on the [LUU Event Page](https://engage.luu.org.uk/groups/4GQD2/artificial-intelligence-society/events).
+
 ## Organiser
 
 - Omar Choudhry ([O.Choudhry@leeds.ac.uk](mailto:O.Choudhry@leeds.ac.uk))
@@ -41,4 +43,4 @@ Tickets are offered on a first-come-first-serve basis. To book your tickets, ple
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE.md) file for details.

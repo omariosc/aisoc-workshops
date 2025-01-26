@@ -43,4 +43,4 @@ Links for the online workshop sessions can be found on the [LUU Event Page](http
 
 ## License
 
-This project is free-to-use but forbidden commercial - see the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
