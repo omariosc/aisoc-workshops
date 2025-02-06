@@ -15,12 +15,14 @@ This repository contains all the resources and materials for the workshops that 
 
 ## Workshops
 
-1. [Workshop 1: Introduction to AI](workshop1.md) *Learn about the fundamentals powering everyday technology, covering the basics of AI & ML, real-world applications and the process from idea inception to deployment.*
-2. [Workshop 2: Building a Machine Learning Pipeline](workshop2.md) *How can we go from real-world data to producing useful predictions? We will start to look at more technical details, including practical coding exercises exploring linear regression, logistic regression and decision trees.*
-3. [Workshop 3: Neural Networks](workshop3.md) *A simple and intuitive way to understand neural networks and their code-based implementations.*
-4. [Workshop 4: Ethics of AI](workshop4.md) *You might think this is boring and want to skip this one out, but **it will be** the most insightful and thought-provoking session.*
-5. [Workshop 5: AI Mini-Hackathon](workshop5.md): *The capstone group project is to consolidate learning over all workshops.*
-6. [Workshop 6: AI Project Showcase](workshop6.md) *An opportunity to showcase your work, leading on from the [previous hackathon](workshop5.md).*
+1. [Workshop 1: Introduction to AI](workshop1.md)
+2. [Workshop 2: Building a Machine Learning Pipeline](workshop2.md)
+3. [Workshop 3: Neural Networks](workshop3.md)
+4. [Workshop 4: Ethics of AI](workshop4.md)
+5. [Workshop 5: AI Mini-Hackathon](workshop5.md)
+6. [Workshop 6: AI Project Showcase](workshop6.md)
+
+Links for the online workshop sessions can be found on the [LUU Event Page](https://engage.luu.org.uk/groups/4GQD2/artificial-intelligence-society/events).
 
 ## Booking Tickets
 
