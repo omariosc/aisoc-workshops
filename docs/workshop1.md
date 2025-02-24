@@ -2,7 +2,7 @@
 
 Learn about the fundamentals powering everyday technology, covering the basics of AI & ML, real-world applications and the process from idea inception to deployment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IQkNPUI3vbQ?si=Y5ttYhnzobbd6Ep8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jw_4Sp7mMwE?si=nafPf87-Pb3QCM-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 

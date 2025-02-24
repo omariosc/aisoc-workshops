@@ -11,7 +11,7 @@ The goals of the workshops are to:
 - Foster problem-solving and critical thinking through real-world applications.
 - Empower students to explore further educational and industrial opportunities in AI.
 
-This repository contains all the resources and materials for the workshops that will be held throughout the semester. Each workshop will have its own folder containing the relevant files and instructions.
+This repository contains all the resources and materials for the workshops that will be held throughout the semester. Each workshop will have its own folder containing the relevant files and instructions, including the YouTube video recordings for the online counterpart-sessions.
 
 ## Workshops
 

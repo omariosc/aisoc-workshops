@@ -5,8 +5,8 @@ cp 4\ Ethics\ of\ AI/README.md docs/workshop4.md
 cp 5\ AI\ Mini-Hackathon/README.md docs/workshop5.md
 cp 6\ AI\ Project\ Showcase/README.md docs/workshop6.md
 
-cp LICENSE docs/LICENSE.md
-cp README.md docs/index.md
+# cp LICENSE docs/LICENSE.md
+# cp README.md docs/index.md
 
 # Run MkDocs build
 python -m mkdocs build
